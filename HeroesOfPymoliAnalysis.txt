@@ -1,0 +1,18 @@
+Heroes of Pymoly Data Analysis
+
+Men account for the highest proportion of players, consisting of approximately
+84% of the total population of players. While men had the highest purchase
+value ($1967.64), women and gender non-conforming had the higher average
+purchase price ($3.20 and $3.35) and higher purchase per person ($4.47 and $4.56)
+compared to men ($3.02 and $4.56).
+
+The target age group would be between 20 and 24 years, accounting for approximately
+40% of the total player population. This age group also accounts for the highest
+amount of purchases. Ages 15 to 19 account for the second highest player population
+and second highest total revenue of ingame purchases.
+
+Ingame item, Final Critic, is the most popular item to purchase and accounts for
+the highest item revenue. While popularity adds to revenue, it does not necessarily
+guarantee profitability. Two popular items, Brutality Ivory Warmace and Retribution
+Axe, are highly popular items but are low cost items bringing in $19.36 and
+$17.76 in total revenue compared to Final Critic wich brought in $59.99 total.
